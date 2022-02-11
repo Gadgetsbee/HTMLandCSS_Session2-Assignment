@@ -1,0 +1,23 @@
+.caps{
+    font-family: 'Domine', serif;;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    color: rgb(0, 119, 255);
+    font-size: 75px;
+}
+h2{
+    color: rgb(59, 56, 221);
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.abc{
+    background-color: rgb(72, 218, 255);
+}
+p{
+    font-weight: 500;
+}
